@@ -1,1 +1,24 @@
+.card {
+  background-color: #FF6F61;
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid black;
+  text-align: center;
+  width: 250px;
+  height: 150px;
+}
 
+#highlight {
+  background-color: #6B5B95;
+ position: relative;
+ top: 20px;
+ left: 20;
+}
+
+.hover-box {
+  background-color: #88B04B;
+}
+
+.hover-box: hover {
+  background-color: #F7CAC9;
+}
